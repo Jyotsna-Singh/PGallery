@@ -12,7 +12,7 @@ PGallery is an image portfolio gallery with a few features such as categorizatio
 1.0.0
 
 ## Live Demo
- [PGallery](http://jyotsnasingh.com/projects/JavaScript/PGallery/)
+ [JyotsnaSingh/PGallery](http://jyotsnasingh.com/projects/JavaScript/PGallery/)
 
 
 ## Vendors
