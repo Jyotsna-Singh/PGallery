@@ -1,4 +1,4 @@
-# PGallery
+# ![alt tag](https://github.com/Jyotsna-Singh/PGallery/blob/master/img/logo.PNG)
 
 PGallery is an image portfolio gallery with a few features such as categorization, lightbox effect and overlay effect.
 
@@ -11,8 +11,8 @@ PGallery is an image portfolio gallery with a few features such as categorizatio
 ## Version
 1.0.0
 
-## Live Demo
- [JyotsnaSingh/PGallery](http://jyotsnasingh.com/projects/JavaScript/PGallery/)
+## Live Demo - PGallery
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/PGallery/)
 
 
 ## Vendors
